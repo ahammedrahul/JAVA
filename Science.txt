@@ -1,0 +1,5 @@
+Science|What gas do plants absorb from the atmosphere?|Oxygen|Carbon Dioxide|Nitrogen|Helium|1
+Science|What is the chemical symbol for water?|H2O|CO2|NaCl|O2|0
+Science|Which scientist proposed the theory of relativity?|Isaac Newton|Albert Einstein|Galileo Galilei|Nikola Tesla|1
+Science|What is the primary source of energy for Earth's climate system?|Moon|Sun|Wind|Geothermal|1
+Science|What is the hardest naturally occurring substance known?|Graphite|Quartz|Diamond|Topaz|2

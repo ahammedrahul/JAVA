@@ -1,0 +1,5 @@
+General Knowledge|What is the capital city of France?|Paris|Florida|Texas|California|0
+General Knowledge|Which planet is known as the Red Planet?|Jupiter|Mars|Venus|Mercury|1
+General Knowledge|Who wrote the play "Romeo and Juliet"?|William Shakespeare|Charles Dickens|Jane Austen|Mark Twain|0
+General Knowledge|What is the largest ocean on Earth?|Atlantic Ocean|Indian Ocean|Arctic Ocean|Pacific Ocean|3
+General Knowledge|What is the currency of Japan?|Dollar|Yen|Euro|Pound|1

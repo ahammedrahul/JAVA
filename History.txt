@@ -1,0 +1,5 @@
+History|In which year did World War II end?|1945|1918|1939|1969|0
+History|Who was the first president of the United States?|Abraham Lincoln|George Washington|Thomas Jefferson|John Adams|1
+History|Which ancient civilization built the Pyramids of Giza?|Mayans|Romans|Egyptians|Incas|2
+History|What was the name of the ship that carried the Pilgrims to America in 1620?|Santa Maria|Mayflower|Nina|Pinta|1
+History|Who led the Indian independence movement against British rule?|Mahatma Gandhi|Jawaharlal Nehru|Subhas Chandra Bose|Sardar Patel|0
